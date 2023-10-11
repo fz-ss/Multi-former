@@ -15,12 +15,14 @@ will coming soon
 will coming soon
 
 <img src = "image\result1.png" width="300px">
+Synthia——>Cityscapes
 <img src = "image\result1_img.png" width="300px">
 
 (a):image, (b):GT, (c):Wu, (d):Lu, (e):ours
 
 <img src = "image\result2.png" width="300px">
 <img src = "image\result3.png" width="300px">
+Synthia——>Mapillary
 <img src = "image\result3_img.png" width="300px">
 
 (a):image, (b):GT, (c):Wu, (d):Lu, (e):ours
