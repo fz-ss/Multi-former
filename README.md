@@ -1,29 +1,32 @@
-
+# Multi_former: Multitask transformer framework in unsupervised domain adaptation
 <img src = "image\Multi_former.png" width="800px">     
 <img src = "image\depth.png" width="800px">
 
 ## Codes 
-will coming soon
+coming soon
 
 
 ## Abstract 
-will coming soon
+coming soon
 
 
 
 ## Our results
-will coming soon
 
-<img src = "image\result1.png" width="300px">
-Synthia——>Cityscapes
-<img src = "image\result1_img.png" width="300px">
+<img src = "image\result1.png" width="800px">
+
+**Synthia——>Cityscapes**
+
+<img src = "image\result1_img.png" width="800px">
 
 (a):image, (b):GT, (c):Wu, (d):Lu, (e):ours
 
-<img src = "image\result2.png" width="300px">
-<img src = "image\result3.png" width="300px">
-Synthia——>Mapillary
-<img src = "image\result3_img.png" width="300px">
+<img src = "image\result2.png" width="800px">
+<img src = "image\result3.png" width="800px">
+
+**Synthia——>Mapillary**
+
+<img src = "image\result3_img.png" width="800px">
 
 (a):image, (b):GT, (c):Wu, (d):Lu, (e):ours
 
@@ -108,7 +111,7 @@ Where experiment ids are:
 |  4    | SYNTHIA to Mapillary 7 classes |
 |  5   | SYNTHIA to Mapillary 7 classes (low resolution) |
 
-## Test our wights
+## Test our weights
 Download our trained model at [OneDriver](https://1drv.ms/f/s!AnoMEIeojRYtijOkEIlOpwIwkfnq?e=0Ob4jQ)
 
 # Acknowledgements
