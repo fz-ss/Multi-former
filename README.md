@@ -13,20 +13,20 @@ coming soon
 
 ## Our results
 
-<img src = "image\result1.png" width="800px">
+<img src = "image\result1.png" width="600px">
 
 **Synthia——>Cityscapes**
 
-<img src = "image\result1_img.png" width="800px">
+<img src = "image\result1_img.png" width="600px">
 
 (a):image, (b):GT, (c):Wu, (d):Lu, (e):ours
 
-<img src = "image\result2.png" width="800px">
-<img src = "image\result3.png" width="800px">
+<img src = "image\result2.png" width="600px">
+<img src = "image\result3.png" width="600px">
 
 **Synthia——>Mapillary**
 
-<img src = "image\result3_img.png" width="800px">
+<img src = "image\result3_img.png" width="600px">
 
 (a):image, (b):GT, (c):Wu, (d):Lu, (e):ours
 
