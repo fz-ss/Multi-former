@@ -86,7 +86,7 @@ coming soon
 
 
 ## Train
-Download the weights from here[Swin Transformer for ImageNet Classification]( https://github.com/microsoft/Swin-Transformer ) and export weight = YOUR_WEIGHT_PATH.  and put it in  folder  <project_root>/pretrained_models  for initializing backbone.
+Download the weights from here [Swin Transformer for ImageNet Classification]( https://github.com/microsoft/Swin-Transformer ) and export weight = YOUR_WEIGHT_PATH.  and put it in  folder  <project_root>/pretrained_models  for initializing backbone.
 ```bash
 $ cd depth_distribution/main/scripts
 
