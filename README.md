@@ -115,6 +115,6 @@ Where experiment ids are:
 Download our trained model at [OneDriver](https://1drv.ms/f/s!AnoMEIeojRYtijOkEIlOpwIwkfnq?e=0Ob4jQ)
 
 # Acknowledgements
-This codebase depends on [Wu](https://github.com/depdis/Depth_Distribution), [swin_transformer](https://github.com/microsoft/Swin-Transformer), and[Transda](https://github.com/alpc91/TransDA).
+This codebase depends on [Wu] (https://github.com/depdis/Depth_Distribution), [swin_transformer] (https://github.com/microsoft/Swin-Transformer), and [Transda](https://github.com/alpc91/TransDA).
 Thank you for the work you've done!
 
