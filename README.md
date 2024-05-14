@@ -111,7 +111,7 @@ Where experiment ids are:
 |  4    | SYNTHIA to Mapillary 7 classes |
 |  5   | SYNTHIA to Mapillary 7 classes (low resolution) |
 
-## Test our weights
+## Our models
 Download our trained model at [OneDriver](https://1drv.ms/f/s!AnoMEIeojRYtijOkEIlOpwIwkfnq?e=0Ob4jQ)
 
 # Acknowledgements
