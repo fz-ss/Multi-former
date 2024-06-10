@@ -1,0 +1,1281 @@
+100 / 500: 57.50
+200 / 500: 57.98
+300 / 500: 57.61
+400 / 500: 57.36
+Current mIoU:57.7
+Current model: 1000
+Current best mIoU:57.7
+Current best model:1000
+flat	83.65
+construction	68.9
+object	0.69
+nature	77.68
+sky	74.82
+human	42.48
+vehicle	55.69
+
+100 / 500: 33.98
+200 / 500: 33.34
+300 / 500: 32.70
+400 / 500: 32.22
+Current mIoU:32.29
+Current model: 1
+Current best mIoU:32.29
+Current best model:1
+road	37.32
+sidewalk	19.03
+building	70.27
+wall	3.47
+fence	0.62
+pole	29.79
+light	21.29
+sign	22.36
+vegetation	64.15
+sky	66.07
+person	40.66
+rider	15.35
+car	47.36
+bus	36.61
+motocycle	8.83
+bicycle	33.51
+
+100 / 500: 40.70
+200 / 500: 39.36
+300 / 500: 38.67
+400 / 500: 38.67
+Current mIoU:38.95
+Current model: 99
+Current best mIoU:38.95
+Current best model:99
+road	83.62
+sidewalk	36.7
+building	76.02
+wall	9.49
+fence	0.59
+pole	27.92
+light	16.98
+sign	21.29
+vegetation	78.52
+sky	76.66
+person	39.52
+rider	13.85
+car	69.29
+bus	30.33
+motocycle	9.8
+bicycle	32.59
+
+100 / 500: 38.84
+200 / 500: 37.46
+300 / 500: 36.59
+400 / 500: 36.64
+Current mIoU:36.88
+Current model: 1
+Current best mIoU:36.88
+Current best model:1
+road	72.32
+sidewalk	31.93
+building	70.53
+wall	8.47
+fence	0.55
+pole	28.54
+light	18.84
+sign	20.83
+vegetation	75.88
+sky	77.24
+person	44.61
+rider	13.37
+car	63.8
+bus	27.54
+motocycle	11.18
+bicycle	24.4
+
+100 / 500: 38.63
+200 / 500: 37.20
+300 / 500: 36.34
+400 / 500: 36.44
+Current mIoU:36.64
+Current model: 3
+Current best mIoU:36.88
+Current best model:1
+road	71.86
+sidewalk	31.26
+building	70.57
+wall	8.35
+fence	0.52
+pole	27.82
+light	17.46
+sign	20.7
+vegetation	76.08
+sky	76.78
+person	42.8
+rider	13.09
+car	65.8
+bus	28.06
+motocycle	10.41
+bicycle	24.64
+
+100 / 500: 38.93
+200 / 500: 37.58
+300 / 500: 36.70
+400 / 500: 36.67
+Current mIoU:36.81
+Current model: 5
+Current best mIoU:36.88
+Current best model:1
+road	74.5
+sidewalk	32.18
+building	71.39
+wall	8.46
+fence	0.58
+pole	27.47
+light	17.49
+sign	20.04
+vegetation	74.76
+sky	75.8
+person	41.64
+rider	13.11
+car	65.41
+bus	28.91
+motocycle	9.8
+bicycle	27.34
+
+100 / 500: 39.41
+200 / 500: 37.97
+300 / 500: 37.11
+400 / 500: 37.07
+Current mIoU:37.14
+Current model: 7
+Current best mIoU:37.14
+Current best model:7
+road	75.4
+sidewalk	32.04
+building	71.14
+wall	7.72
+fence	0.53
+pole	27.13
+light	17.19
+sign	19.26
+vegetation	73.97
+sky	75.03
+person	45.67
+rider	14.26
+car	67.37
+bus	29.61
+motocycle	10.35
+bicycle	27.56
+
+100 / 500: 39.71
+200 / 500: 38.25
+300 / 500: 37.43
+400 / 500: 37.46
+Current mIoU:37.62
+Current model: 9
+Current best mIoU:37.62
+Current best model:9
+road	75.3
+sidewalk	32.16
+building	72.05
+wall	7.81
+fence	0.61
+pole	27.95
+light	18.19
+sign	20.46
+vegetation	75.83
+sky	75.43
+person	45.32
+rider	14.39
+car	67.3
+bus	29.88
+motocycle	10.4
+bicycle	28.79
+
+100 / 500: 38.83
+200 / 500: 37.47
+300 / 500: 36.58
+400 / 500: 36.51
+Current mIoU:36.7
+Current model: 1
+Current best mIoU:36.7
+Current best model:1
+road	72.46
+sidewalk	31.85
+building	70.5
+wall	9.51
+fence	0.66
+pole	28.51
+light	18.96
+sign	21.37
+vegetation	74.55
+sky	74.97
+person	42.21
+rider	13.35
+car	62.93
+bus	26.66
+motocycle	10.6
+bicycle	28.04
+
+100 / 500: 38.80
+200 / 500: 37.42
+300 / 500: 36.56
+400 / 500: 36.51
+Current mIoU:36.66
+Current model: 3
+Current best mIoU:36.7
+Current best model:1
+road	73.22
+sidewalk	31.65
+building	71.24
+wall	9.5
+fence	0.65
+pole	28.21
+light	18.33
+sign	21.18
+vegetation	74.78
+sky	74.35
+person	41.01
+rider	13.19
+car	64.05
+bus	26.77
+motocycle	10.16
+bicycle	28.24
+
+100 / 500: 39.53
+100 / 500: 38.84
+200 / 500: 37.46
+300 / 500: 36.59
+400 / 500: 36.64
+Current mIoU:36.88
+Current model: 1
+Current best mIoU:36.88
+Current best model:1
+road	72.33
+sidewalk	31.93
+building	70.53
+wall	8.47
+fence	0.55
+pole	28.55
+light	18.84
+sign	20.83
+vegetation	75.88
+sky	77.24
+person	44.61
+rider	13.37
+car	63.8
+bus	27.54
+motocycle	11.18
+bicycle	24.4
+
+100 / 500: 38.63
+200 / 500: 37.20
+300 / 500: 36.35
+400 / 500: 36.45
+Current mIoU:36.64
+Current model: 3
+Current best mIoU:36.88
+Current best model:1
+road	71.89
+sidewalk	31.27
+building	70.59
+wall	8.35
+fence	0.52
+pole	27.82
+light	17.47
+sign	20.71
+vegetation	76.08
+sky	76.78
+person	42.8
+rider	13.1
+car	65.81
+bus	28.05
+motocycle	10.41
+bicycle	24.64
+
+100 / 500: 38.94
+200 / 500: 37.59
+300 / 500: 36.71
+400 / 500: 36.69
+Current mIoU:36.82
+Current model: 5
+Current best mIoU:36.88
+Current best model:1
+road	74.57
+sidewalk	32.2
+building	71.43
+wall	8.47
+fence	0.58
+pole	27.47
+light	17.5
+sign	20.04
+vegetation	74.75
+sky	75.8
+person	41.65
+rider	13.11
+car	65.44
+bus	28.9
+motocycle	9.8
+bicycle	27.35
+
+100 / 500: 39.43
+200 / 500: 37.99
+300 / 500: 37.13
+400 / 500: 37.09
+Current mIoU:37.15
+Current model: 7
+Current best mIoU:37.15
+Current best model:7
+road	75.5
+sidewalk	32.07
+building	71.2
+wall	7.73
+fence	0.53
+pole	27.14
+light	17.2
+sign	19.25
+vegetation	73.96
+sky	75.03
+person	45.68
+rider	14.26
+car	67.39
+bus	29.59
+motocycle	10.35
+bicycle	27.57
+
+100 / 500: 39.74
+200 / 500: 38.28
+300 / 500: 37.46
+400 / 500: 37.49
+Current mIoU:37.64
+Current model: 9
+Current best mIoU:37.64
+Current best model:9
+road	75.45
+sidewalk	32.2
+building	72.14
+wall	7.82
+fence	0.61
+pole	27.97
+light	18.21
+sign	20.46
+vegetation	75.82
+sky	75.43
+person	45.34
+rider	14.4
+car	67.35
+bus	29.87
+motocycle	10.4
+bicycle	28.82
+
+100 / 500: 39.40
+200 / 500: 37.92
+300 / 500: 37.12
+400 / 500: 37.14
+Current mIoU:37.25
+Current model: 11
+Current best mIoU:37.64
+Current best model:9
+road	74.84
+sidewalk	32.06
+building	71.52
+wall	8.56
+fence	0.6
+pole	27.77
+light	18.1
+sign	19.97
+vegetation	75.71
+sky	76.53
+person	43.27
+rider	13.75
+car	66.76
+bus	28.64
+motocycle	10.27
+bicycle	27.69
+
+100 / 500: 39.20
+200 / 500: 37.75
+300 / 500: 36.95
+400 / 500: 36.95
+Current mIoU:37.08
+Current model: 13
+Current best mIoU:37.64
+Current best model:9
+road	74.24
+sidewalk	31.85
+building	71.43
+wall	8.48
+fence	0.66
+pole	27.69
+light	18.5
+sign	20.42
+vegetation	75.43
+sky	74.91
+person	42.51
+rider	13.66
+car	66.16
+bus	28.59
+motocycle	10.44
+bicycle	28.34
+
+100 / 500: 39.32
+200 / 500: 37.87
+300 / 500: 37.01
+400 / 500: 37.01
+Current mIoU:37.14
+Current model: 15
+Current best mIoU:37.64
+Current best model:9
+road	77.28
+sidewalk	33.0
+building	72.74
+wall	7.99
+fence	0.66
+pole	27.17
+light	16.99
+sign	19.68
+vegetation	75.88
+sky	76.32
+person	42.64
+rider	12.88
+car	67.06
+bus	29.8
+motocycle	11.16
+bicycle	23.05
+
+100 / 500: 39.71
+200 / 500: 38.36
+300 / 500: 37.48
+400 / 500: 37.49
+Current mIoU:37.67
+Current model: 17
+Current best mIoU:37.67
+Current best model:17
+road	79.8
+sidewalk	33.66
+building	74.55
+wall	7.74
+fence	0.79
+pole	27.72
+light	16.7
+sign	21.48
+vegetation	76.49
+sky	75.09
+person	42.53
+rider	13.08
+car	67.59
+bus	31.48
+motocycle	9.74
+bicycle	24.33
+
+100 / 500: 39.50
+200 / 500: 38.10
+300 / 500: 37.23
+400 / 500: 37.27
+Current mIoU:37.46
+Current model: 19
+Current best mIoU:37.67
+Current best model:17
+road	78.14
+sidewalk	33.1
+building	74.19
+wall	8.14
+fence	0.75
+pole	27.72
+light	17.5
+sign	21.24
+vegetation	76.28
+sky	74.13
+person	43.59
+rider	13.18
+car	67.7
+bus	29.94
+motocycle	9.98
+bicycle	23.83
+
+100 / 500: 39.89
+200 / 500: 38.40
+300 / 500: 37.56
+400 / 500: 37.64
+Current mIoU:37.88
+Current model: 21
+Current best mIoU:37.88
+Current best model:21
+road	77.57
+sidewalk	32.77
+building	74.22
+wall	8.38
+fence	0.79
+pole	27.61
+light	17.74
+sign	22.44
+vegetation	76.63
+sky	75.05
+person	42.95
+rider	13.67
+car	67.91
+bus	30.49
+motocycle	10.08
+bicycle	27.81
+
+100 / 500: 39.18
+200 / 500: 37.67
+300 / 500: 36.79
+400 / 500: 36.92
+Current mIoU:37.14
+Current model: 23
+Current best mIoU:37.88
+Current best model:21
+road	74.31
+sidewalk	31.92
+building	72.38
+wall	8.5
+fence	0.64
+pole	27.2
+light	17.79
+sign	21.65
+vegetation	76.27
+sky	75.73
+person	42.91
+rider	13.01
+car	66.45
+bus	29.27
+motocycle	10.97
+bicycle	25.26
+
+100 / 500: 39.37
+200 / 500: 37.85
+300 / 500: 37.00
+400 / 500: 37.08
+Current mIoU:37.27
+Current model: 25
+Current best mIoU:37.88
+Current best model:21
+road	75.74
+sidewalk	32.35
+building	72.69
+wall	8.57
+fence	0.62
+pole	27.26
+light	17.46
+sign	21.95
+vegetation	76.23
+sky	75.73
+person	42.09
+rider	12.88
+car	66.89
+bus	29.5
+motocycle	10.66
+bicycle	25.7
+
+100 / 500: 39.14
+200 / 500: 37.67
+300 / 500: 36.82
+400 / 500: 36.87
+Current mIoU:37.02
+Current model: 27
+Current best mIoU:37.88
+Current best model:21
+road	76.28
+sidewalk	32.62
+building	72.82
+wall	8.92
+fence	0.61
+pole	27.21
+light	17.24
+sign	21.04
+vegetation	76.04
+sky	75.58
+person	41.63
+rider	12.78
+car	65.57
+bus	28.51
+motocycle	10.14
+bicycle	25.3
+
+100 / 500: 39.36
+200 / 500: 37.87
+300 / 500: 37.08
+400 / 500: 37.10
+Current mIoU:37.23
+Current model: 29
+Current best mIoU:37.88
+Current best model:21
+road	76.71
+sidewalk	33.19
+building	71.98
+wall	8.6
+fence	0.56
+pole	25.21
+light	17.8
+sign	19.74
+vegetation	75.87
+sky	76.47
+person	42.32
+rider	13.59
+car	66.99
+bus	28.49
+motocycle	10.25
+bicycle	27.84
+
+100 / 500: 39.40
+200 / 500: 37.89
+300 / 500: 37.11
+400 / 500: 37.16
+Current mIoU:37.29
+Current model: 31
+Current best mIoU:37.88
+Current best model:21
+road	75.69
+sidewalk	32.69
+building	71.67
+wall	8.42
+fence	0.43
+pole	25.69
+light	17.7
+sign	19.48
+vegetation	75.85
+sky	77.06
+person	44.89
+rider	14.32
+car	67.91
+bus	27.92
+motocycle	10.36
+bicycle	26.62
+
+100 / 500: 38.84
+200 / 500: 37.46
+300 / 500: 36.59
+400 / 500: 36.64
+Current mIoU:36.88
+Current model: 1
+Current best mIoU:36.88
+Current best model:1
+road	72.33
+sidewalk	31.93
+building	70.53
+wall	8.47
+fence	0.55
+pole	28.55
+light	18.84
+sign	20.83
+vegetation	75.88
+sky	77.24
+person	44.61
+rider	13.37
+car	63.8
+bus	27.54
+motocycle	11.18
+bicycle	24.4
+
+100 / 500: 38.63
+200 / 500: 37.20
+300 / 500: 36.35
+400 / 500: 36.45
+Current mIoU:36.64
+Current model: 3
+Current best mIoU:36.88
+Current best model:1
+road	71.89
+sidewalk	31.27
+building	70.59
+wall	8.35
+fence	0.52
+pole	27.82
+light	17.47
+sign	20.71
+vegetation	76.08
+sky	76.78
+person	42.8
+rider	13.1
+car	65.81
+bus	28.05
+motocycle	10.41
+bicycle	24.64
+
+100 / 500: 38.94
+200 / 500: 37.59
+300 / 500: 36.71
+400 / 500: 36.69
+Current mIoU:36.82
+Current model: 5
+Current best mIoU:36.88
+Current best model:1
+road	74.57
+sidewalk	32.2
+building	71.43
+wall	8.47
+fence	0.58
+pole	27.47
+light	17.5
+sign	20.04
+vegetation	74.75
+sky	75.8
+person	41.65
+rider	13.11
+car	65.44
+bus	28.9
+motocycle	9.8
+bicycle	27.35
+
+100 / 500: 39.86
+200 / 500: 38.53
+300 / 500: 37.65
+400 / 500: 37.62
+Current mIoU:37.85
+Current model: 1
+Current best mIoU:37.85
+Current best model:1
+road	77.18
+sidewalk	33.44
+building	73.11
+wall	8.71
+fence	0.77
+pole	28.99
+light	19.77
+sign	23.17
+vegetation	76.27
+sky	75.68
+person	41.6
+rider	13.28
+car	65.27
+bus	28.75
+motocycle	10.2
+bicycle	29.38
+
+100 / 500: 39.87
+200 / 500: 38.52
+300 / 500: 37.66
+400 / 500: 37.61
+Current mIoU:37.81
+Current model: 3
+Current best mIoU:37.85
+Current best model:1
+road	78.27
+sidewalk	33.45
+building	73.9
+wall	8.87
+fence	0.8
+pole	28.74
+light	18.59
+sign	22.71
+vegetation	76.3
+sky	75.13
+person	41.15
+rider	13.36
+car	66.18
+bus	28.91
+motocycle	9.86
+bicycle	28.73
+
+100 / 500: 39.62
+200 / 500: 38.29
+300 / 500: 37.41
+400 / 500: 37.36
+Current mIoU:37.53
+Current model: 5
+Current best mIoU:37.85
+Current best model:1
+road	78.15
+sidewalk	33.45
+building	73.4
+wall	8.67
+fence	0.75
+pole	27.94
+light	17.98
+sign	21.95
+vegetation	75.58
+sky	74.36
+person	40.37
+rider	13.23
+car	66.42
+bus	29.52
+motocycle	9.55
+bicycle	29.21
+
+100 / 500: 39.54
+200 / 500: 38.18
+300 / 500: 37.32
+400 / 500: 37.26
+Current mIoU:37.37
+Current model: 7
+Current best mIoU:37.85
+Current best model:1
+road	78.69
+sidewalk	33.36
+building	73.46
+wall	8.3
+fence	0.75
+pole	26.51
+light	16.75
+sign	20.35
+vegetation	75.34
+sky	75.2
+person	39.75
+rider	13.27
+car	67.04
+bus	31.08
+motocycle	8.67
+bicycle	29.38
+
+100 / 500: 39.81
+200 / 500: 38.44
+300 / 500: 37.63
+400 / 500: 37.57
+Current mIoU:37.66
+Current model: 9
+Current best mIoU:37.85
+Current best model:1
+road	80.49
+sidewalk	34.04
+building	74.1
+wall	7.9
+fence	0.86
+pole	26.95
+light	17.18
+sign	20.56
+vegetation	75.94
+sky	75.34
+person	39.9
+rider	13.12
+car	66.79
+bus	32.04
+motocycle	8.8
+bicycle	28.59
+
+100 / 500: 38.84
+200 / 500: 37.46
+300 / 500: 36.59
+400 / 500: 36.64
+Current mIoU:36.88
+Current model: 1
+Current best mIoU:36.88
+Current best model:1
+road	72.32
+sidewalk	31.93
+building	70.53
+wall	8.47
+fence	0.55
+pole	28.54
+light	18.84
+sign	20.83
+vegetation	75.88
+sky	77.24
+person	44.61
+rider	13.37
+car	63.8
+bus	27.54
+motocycle	11.18
+bicycle	24.4
+
+100 / 500: 38.63
+200 / 500: 37.20
+300 / 500: 36.34
+400 / 500: 36.44
+Current mIoU:36.64
+Current model: 3
+Current best mIoU:36.88
+Current best model:1
+road	71.86
+sidewalk	31.26
+building	70.57
+wall	8.35
+fence	0.52
+pole	27.82
+light	17.46
+sign	20.7
+vegetation	76.08
+sky	76.78
+person	42.8
+rider	13.09
+car	65.8
+bus	28.06
+motocycle	10.41
+bicycle	24.64
+
+100 / 500: 0.57
+200 / 500: 0.54
+300 / 500: 0.52
+400 / 500: 0.45
+Current mIoU:0.4
+Current model: 2
+Current best mIoU:0.4
+Current best model:2
+road	0.48
+sidewalk	0.44
+building	0.37
+wall	0.4
+fence	1.29
+pole	0.95
+light	0.0
+sign	0.01
+vegetation	1.12
+sky	0.0
+person	0.77
+rider	0.23
+car	0.0
+bus	0.33
+motocycle	0.08
+bicycle	0.0
+
+100 / 500: 38.84
+200 / 500: 37.46
+100 / 500: 40.56
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 99
+Current best mIoU:6.15
+Current best model:99
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 199
+Current best mIoU:6.15
+Current best model:99
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 299
+Current best mIoU:6.15
+Current best model:99
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 68.09
+100 / 500: 68.31
+200 / 500: 68.52
+300 / 500: 68.50
+400 / 500: 68.27
+Current mIoU:68.56
+Current model: 1
+Current best mIoU:68.56
+Current best model:1
+flat	93.56
+construction	78.96
+object	27.12
+nature	78.91
+sky	83.62
+human	49.56
+vehicle	68.2
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 1
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 68.31
+200 / 500: 68.52
+300 / 500: 68.50
+400 / 500: 68.27
+Current mIoU:68.56
+Current model: 1
+Current best mIoU:68.56
+Current best model:1
+flat	93.56
+construction	78.96
+object	27.12
+nature	78.91
+sky	83.62
+human	49.56
+vehicle	68.2
+
+100 / 500: 68.18
+200 / 500: 68.37
+300 / 500: 68.39
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 1
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 1
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 1
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 3
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 1
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 1
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 3
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 5
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 7
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 9
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+100 / 500: 6.60
+200 / 500: 6.50
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 1
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+100 / 500: 6.60
+200 / 500: 6.50
+300 / 500: 6.30
+400 / 500: 6.19
+Current mIoU:6.15
+Current model: 1
+Current best mIoU:6.15
+Current best model:1
+flat	43.04
+construction	0.0
+object	0.0
+nature	0.0
+sky	0.0
+human	0.0
+vehicle	0.0
+
+Current mIoU:66.55
+Current model: 1
+Current best mIoU:66.55
+Current best model:1
+flat	94.89
+construction	77.11
+object	31.75
+nature	83.19
+sky	72.33
+human	37.92
+vehicle	68.63
+
+Current mIoU:66.45
+Current model: 3
+Current best mIoU:66.55
+Current best model:1
+flat	94.87
+construction	77.16
+object	32.09
+nature	83.39
+sky	72.53
+human	36.97
+vehicle	68.17
+
+Current mIoU:66.35
+Current model: 5
+Current best mIoU:66.55
+Current best model:1
+flat	94.84
+construction	77.15
+object	32.43
+nature	83.46
+sky	72.58
+human	36.34
+vehicle	67.64
+
+100 / 500: 31.90
+200 / 500: 31.48
+300 / 500: 30.80
+400 / 500: 30.64
+Current mIoU:30.86
+Current model: 1
+Current best mIoU:30.86
+Current best model:1
+road	78.51
+sidewalk	27.69
+building	72.99
+wall	5.38
+fence	0.11
+pole	28.41
+light	14.8
+sign	10.24
+vegetation	75.6
+sky	78.44
+person	30.5
+rider	3.27
+car	49.48
+bus	8.85
+motocycle	1.7
+bicycle	7.81
+cur_abs_rel', 'cur_sq_rel', 'cur_rms', 'cur_log_rms', 'cur_a1', 'cur_a2', 'cur_a3'(3.2473075, 108.42732, 28.91407, nan, 0.06873962, 0.13606502, 0.20335709)best_abs_rel', 'best_sq_rel', 'best_rms', 'best_log_rms', 'best_a1', 'best_a2', 'best_a3'(-1, -1, -1, -1, -1, -1, -1)
